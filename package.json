@@ -24,6 +24,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-hot-toast": "^2.5.2",
+    "three": "^0.181.2",
     "tinykeys": "^3.0.0"
   },
   "devDependencies": {
